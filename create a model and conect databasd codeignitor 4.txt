@@ -1,0 +1,5 @@
+https://onlinewebtutorblog.com/working-with-codeigniter-4-model-and-entity/
+
+https://codesource.io/build-a-crud-application-using-codeigniter-4-and-mysql/
+
+https://www.studentstutorial.com/codeigniter/delete_4.php
