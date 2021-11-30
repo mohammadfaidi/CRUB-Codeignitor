@@ -100,12 +100,14 @@ class Test extends Controller
         
     $result = $query->getResult();
     
+     
       
-    echo "<pre>";
+    echo "<pre style='color:blue';>";
     print_r($result);
     echo "</pre>";
     
     }
+
     return view('login');
      
 
@@ -160,7 +162,10 @@ echo "dsdsadsa";
     
     }
 		
-    
+    public function admin()
+    {
+      return view('admin');
+    }
         
 		
 	
